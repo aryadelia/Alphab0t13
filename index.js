@@ -204,7 +204,7 @@ autoketik = false
 autoregister = setting.user_register
 typemenu = 'document'
 img = setting.img
-apiku = 'https://zeeoneofc.github.io/'
+apiku = 'http://wa.me/+16146837067?text=*kak+saya+mau+sewa+bot*'
 gc_wa_lu = 'https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
 owner = targetpc
